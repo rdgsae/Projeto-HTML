@@ -127,13 +127,13 @@ body{
 
 @media(max-width: 1024px){
     .instagram-wrapper {
-        width: 90%
+        width: 90%;
     }
 }
 
 @media(max-width: 650px) {
     .instagram-wrapper {
-        width: 90%
+        width: 90%;
     }
 
     .instagram-phone {
